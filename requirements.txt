@@ -1,3 +1,14 @@
 fastapi
+pydantic
 uvicorn
 streamlit
+langchain 
+pypdf 
+openai 
+chromadb 
+tiktoken 
+docx2txt 
+langchain-community 
+langchain-core 
+streamlit_chat 
+langchain-openai

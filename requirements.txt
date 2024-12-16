@@ -12,3 +12,4 @@ langchain-community
 langchain-core 
 streamlit_chat 
 langchain-openai
+python-dotenv
